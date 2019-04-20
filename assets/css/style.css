@@ -1,0 +1,36 @@
+.jumbotron {
+background-image: url("train.gif");
+Color: white;
+text-align: center;
+align-content: center;
+height: 200px;
+
+}
+body {
+    background-color: black;
+
+}
+.card {
+    opacity: 0.85;
+    font-weight: bold;
+}
+
+}
+h1 {
+    font-size: 80px;
+    font-weight: bolder;
+    color: green;
+    
+}
+.card-header {
+    font-family: fantasy;
+    font-size: 25px;
+    padding-top: 15px;
+
+}
+.card-body {
+    color: white;
+}
+table {
+color: white;
+}
